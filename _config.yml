@@ -1,0 +1,11 @@
+title: AIニュース記事
+description: AIに関する最新ニュースと実務活用情報
+lang: ja
+timezone: Asia/Tokyo
+
+theme: jekyll-theme-minimal
+
+url: "https://uehonmachi1222-osk.github.io"
+baseurl: "/ai-news-articles"
+
+permalink: /news/:year/:month/:day/:title/
